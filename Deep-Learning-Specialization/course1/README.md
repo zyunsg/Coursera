@@ -4,15 +4,15 @@ The first course for [Deep Learning Specialization on Coursera](https://www.cour
 
 ## Objectives:
 
-1. Be familiar with **Python(mainly Numpy)**. For python tutorials, you can also check [here](https://github.com/zyunsg/Python).
+1. Be familiar with **Python(mainly Numpy)**. 
 2. To know the general steps and relus when building a model, develop a model with separate module functions.
 3. To undestand and implement **deep neural network** (structure, blocks, applications).
 
 ## Assignments & Quiz:
-* [week1](https://github.com/zyunsg/deep-learning/tree/master/course1/week1) 
-* [week2](https://github.com/zyunsg/deep-learning/tree/master/course1/week2) 
-* [week3](https://github.com/zyunsg/deep-learning/tree/master/course1/week3)
-* [week4](https://github.com/zyunsg/deep-learning/tree/master/course1/week4)
+* [week1](https://github.com/zyunsg/coursera/tree/main/Deep-Learning-Specialization/course1/week1) 
+* [week2](https://github.com/zyunsg/coursera/tree/main/Deep-Learning-Specialization/course1/week2) 
+* [week3](https://github.com/zyunsg/coursera/tree/main/Deep-Learning-Specialization/course1/week3)
+* [week4](https://github.com/zyunsg/coursera/tree/main/Deep-Learning-Specialization/course1/week4)
 
 ## Summary:
 
@@ -38,7 +38,7 @@ The first course for [Deep Learning Specialization on Coursera](https://www.cour
    * forward and backward propagation
    
 4. **Building Deep Neural Network**: to undestand and implement deep neural network. 
-   * Deep Neural Network Structure: ![deep NN structure](https://github.com/zyunsg/deep-learning-coursera/blob/master/course1/week4/images/final_outline.png) 
+   * Deep Neural Network Structure: ![deep NN structure](https://github.com/zyunsg/coursera/tree/main/Deep-Learning-Specialization/course1/week4/images/final_outline.png) 
    * initialization: initialize (w, b) in all layers
    * L forward: L-1 linear relur forward, Lth layer linear sigmoid forward
    * cost function: compute cross-entropy cost J

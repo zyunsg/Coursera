@@ -10,9 +10,9 @@ The second course for [Deep Learning Specialization on Coursera](https://www.cou
 
 ## Assignments & Quiz:
 
-* [week1](https://github.com/zyunsg/deep-learning/tree/master/course2/week1) 
-* [week2](https://github.com/zyunsg/deep-learning/tree/master/course2/week2)
-* [week3](https://github.com/zyunsg/deep-learning/tree/master/course2/week3)
+* [week1](https://github.com/zyunsg/coursera/tree/main/Deep-Learning-Specialization/course2/week1) 
+* [week2](https://github.com/zyunsg/coursera/tree/main/Deep-Learning-Specialization/course2/week2)
+* [week3](https://github.com/zyunsg/coursera/tree/main/Deep-Learning-Specialization/course2/week3)
 
 ## Summary:
 
